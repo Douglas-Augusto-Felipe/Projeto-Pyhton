@@ -1,2 +1,6 @@
-# projeto em Python
-projeto para ler arquivos em excel e enviar por meio de API no WhatsApp
+# Projeto em Python
+
+- Consumo de API no WhatsApp
+- Leitor de xmls para reconhecimento do valor de vendas de um funcionário
+
+
